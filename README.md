@@ -1,2 +1,3 @@
 # hello-world
-A thing you do
+Hi internet
+I'm a fan of hot water bottles and puzzling things out.
